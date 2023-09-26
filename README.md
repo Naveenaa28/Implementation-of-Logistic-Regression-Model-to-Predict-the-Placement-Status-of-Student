@@ -90,17 +90,13 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/ed6a0ce8-3ce4-46e3-91c5-6973e42ee1ff)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/81df9fd3-f901-421d-9c5d-7907b20b385d)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/82adc13c-cd00-4d49-8fb9-a962f3afed83)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/ef895493-e527-4823-a310-fdffe9346d90)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/fcf09806-ff26-4685-ab0b-2dfda1e0c37c)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/743490f5-4079-48ce-8012-90dace7eb26c)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/a5b3f411-3b57-467b-989a-2c22cf0bb2ab)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/33ac0405-32ea-4770-9f8e-b270aae498ed)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/b77233a4-f3fe-45cc-b726-fe22228fb652)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/3f1744c5-9aa1-41de-b203-5677819d6c47)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/dac33061-d18a-4658-80f8-56bcb9ff1674)
-![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/48373c71-bf5e-4642-8fac-89752df7006f)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/09ae9e76-6d0c-4570-a6f2-81fbe1bef58e)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/52786781-0971-478b-9870-7a22ff341edd)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/9dd5622d-f3a4-44ca-9ad7-5d94022ebc1c)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/8f74dba2-cdb1-499a-bd35-be5c1e758215)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/c10ac17e-aed7-4acb-b862-a48a2cd10a59)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/0bfaaf0c-f90b-4d18-8d93-2d78f6236e82)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/c3466eeb-2f69-4514-b73f-bcafc1c60a56)
+![image](https://github.com/Naveenaa28/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/131433133/c4651087-aa7f-4034-9747-c847c3e668f5)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
